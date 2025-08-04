@@ -1,2 +1,2 @@
 # Streaming-data-causality
-Providing data for testing the causal explanation of concept drift. The Data is provided from [@Ka-La].
+Providing data for testing the causal explanation of concept drift. The Data is provided from [[@Ka-La](https://github.com/Ka-La)].
